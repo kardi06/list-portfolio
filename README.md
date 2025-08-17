@@ -1,2 +1,7 @@
 # list-portfolio
-List of my portfolio
+this repo are place to list my portfolio that i have in github or other site
+
+### List of my portfolio
+
+## Golang
+Cli calculator : https://github.com/kardi06/go-cli-calculator.git 
